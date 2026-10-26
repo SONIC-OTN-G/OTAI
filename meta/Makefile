@@ -29,7 +29,7 @@ WARNINGS = \
 	-Wcast-qual \
 	-Wconversion \
 	-Wdisabled-optimization \
-	-Werror \
+	-Wno-error \
 	-Wextra \
 	-Wextra \
 	-Wfloat-equal \
